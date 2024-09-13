@@ -21,6 +21,7 @@ The things I self-admittedly don't have a lot of experience in the following. So
 
 - Programming in general. I know enough to throw together the most basic Python program for the task, but it probably won't be the prettiest or the fastest
 - Access Control - I could stand to learn more about how to control access to certain things.
+- Naming things: I just did something basic for now. I'm all ears for better names.
 
 Some of the things I'm learning about the proper ways to build a networked application (using API's instead of slinging SQL traffic right onto the network) can be tracked via my progress on [github/dbob16/tam-api](https://www.github.com/dbob16/tam-api).
 
